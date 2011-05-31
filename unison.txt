@@ -1,0 +1,15 @@
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+
+local          prometheus         
+changed  <-?-> changed    file1  [] L
+changed  <-?-> changed    file1  
+  deleted  <-?-> changed    file2  
+  changed  <-?-> changed    file3  
+  new file ---->            file4  
+           <---- new file   file5  
+           <---- new file   file6  
+           <---- changed    file7  
+  
+changed  <-?-> changed    file1  [] qTerminated!
