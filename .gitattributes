@@ -1,0 +1,4 @@
+*.jpg filter=bin binary
+*.png filter=bin binary
+*.bmp filter=bin binary
+*.psd filter=bin binary
